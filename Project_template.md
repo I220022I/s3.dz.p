@@ -75,11 +75,6 @@
 
 Рассмотрим вариант перехода к микросервисной архитектуре, который позволит компании реализовать свои планы по масштабированию.
 
-Добавьте сюда диаграмму контекста в модели C4.
-Текущее решение:
-
-Чтобы добавить ссылку в файл Readme.md, нужно использовать синтаксис Markdown. Это делают так:
-
 ```markdown
 [Диаграмма контекста AS IS](https://www.plantuml.com/plantuml/png/bLFVQjDW5B_FKtpsgeEjkV7AgyaOE508QuUN8Mq_N219I_85vzrYHIyY5aKGTYFu166kDblQx1NEUID_X-0OCorAQ9BldD-Vtpab-udnOfE6WVN8ZqP1EjRgr9XfyiIsO-zrxvLlJjDXckXuD8cCZanlD0djQU15mjbBp3ZmX_R1upr7IYSldjkXbnWTe-GU2EFCzAQYRXdV15hH1TMqvhUqe1lEy5nJmND5LrHIGJ_v7FSLha9nHgKWW5nnhZhq0s-tL75EruAlQTMnB4V7oIJgqdUgqVf8IpmlgH2Qd7V1sz3gx5XM_msoXbswXMz95G2_q5pZVR7RxdX7SW_FJ9Tkccb0XmUk1Pzpxb8DargeZHhFHUsY3Ql-niBZliMLHEOFLCAiT9jz00usIMCcAYB_zJvEjUCa_h4Ejgnhqoe-Kt47dYlSPiAHUH3vdPYYzhuPbMTGWIl0rHyDXMI8WkEo0xrdWu7JLzsNUgXEZdOGIrArU__NZhy0NV4dCMluDbro_h0e4Ja3ly0PCqduJHk3wl5XVw2UEaTRO_xp__GDhg9GSwRGhyMSblY9qFK3ltqTZV7r_0O0)
 ```
@@ -88,10 +83,7 @@
 [Диаграмма контекста TO BE](https://www.plantuml.com/plantuml/png/ZL9FYzD05B_dKumvPQ7RN3nvMbaMN70XRhDu36axk84aBSa4rvjrHGyhrflWHT0l46hJfd-IVeKttyZV4uj5qb9APzxC-_tvpIDdgV8JbKMXyIY8Us7Mb-9MgM7wnBOJ_tNxLQ1kiswMogGtY9MCLRitYEnXwCVCEKrLFmowzldZKuUlRgwUsv6VAfdWoZjdnfrg3rdTK84AfQ1lL5Ebtr51Ipt2Nb6knuAcL59El_HRh6lySg57L0B1oBL-42RzGBMXbNwW1UDhMfk6uSWa7SGMVQSQhKyqnpwXd6byRe6tfsMU64Rd3R965ctWMz8AW1cQ5UgYrUZuZ-HTt2bBtoDgXNxXwNiE2vsQ5bon5Mlyt2944m9wEt9izZVWZ2gszJ250fG9p-BFO_v7Y5q4nxkMuO5nx7lg5wHZK8MrrEznlGJj0-fn2yc9QJcaLbkIq1_P5yUv2O5dhkjqXFLITiNDvGboS8ncioE6nl6dj4Japx3PCXjpiFdL2zSzQ7d4OBz2bhcr7Z6yvlVJ77-MMB3BzKN75K-TIpYToRYFZ_et)
 ```
 
-
 # Задание 2. Проектирование микросервисной архитектуры
-
-В этом задании вам нужно предоставить только диаграммы в модели C4. Мы не просим вас отдельно описывать получившиеся микросервисы и то, как вы определили взаимодействия между компонентами To-Be системы. Если вы правильно подготовите диаграммы C4, они и так это покажут.
 
 **Диаграмма контейнеров (Containers)**
 ```markdown
